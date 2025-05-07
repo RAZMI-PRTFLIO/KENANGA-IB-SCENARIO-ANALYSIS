@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook hidden history
+.history/
+
+# Excel temp files
+~$*.xlsx
+
+# Logs and debug files
+*.log
+
+# Ignore secrets (if applicable)
+.env
+*.env
+
+# Optional: Ignore large data files
+# data/*.xlsx
